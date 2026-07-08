@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Kevin</h1>
 
-<!-- Animated typing text (readme-typing-svg). Edit the lines= part to change the text. -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9DA6&center=true&vCenter=true&width=520&height=50&lines=Software+student+at+School+42;Open+to+a+development+apprenticeship;C+%7C+C%2B%2B+%7C+C%23+%7C+Python;AI%2C+systems+%26+algorithms" alt="Typing SVG" />
@@ -11,24 +10,6 @@
   <img src="https://img.shields.io/badge/status-open%20to%20apprenticeship-8DD3D8?style=for-the-badge&labelColor=2E9DA6" alt="Open to apprenticeship"/>
   <img src="https://img.shields.io/badge/School-42%20Nice-2E9DA6?style=for-the-badge&logo=42&logoColor=white" alt="School 42 Nice"/>
 </p>
-
----
-
-### About
-
-```c
-struct Developer {
-    char  *name;      // Kevin Kraft
-    char  *school;    // School 42 · Nice / Sophia Antipolis
-    char  *seeking;   // a development apprenticeship
-    char  *motto;     // "Understand before you code"
-};
-```
-
-I come from the demanding world of the **42 curriculum**, where you learn through
-autonomy, projects, and peer code review. I'm looking for an **apprenticeship** and
-staying open on the field — software, systems, back-end, or web. What matters to me
-is a team where I can keep growing.
 
 ---
 
@@ -44,34 +25,51 @@ is a team where I can keep growing.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-- **C** — the backbone of the 42 common core: memory management, pointers, compilation, and classic algorithms
-- **Python** — the 42 core's high-level language, from AI to algorithms: autonomous LLM agents, function calling and RAG pipelines, along with graph/algorithmic solvers, object-oriented games, scripting and automation
-- **C++** — systems and network programming: client-server architecture, protocol implementation, and concurrency
-- **C#** — automated trading tools with NinjaScript (NinjaTrader indicators & strategies) and game development in Unity
+| Language | Focus |
+|---|---|
+| **C** | 42 core fundamentals — memory management, pointers, compilation, classic algorithms |
+| **Python** | AI agents, function calling & RAG pipelines, graph/algorithmic solvers, OOP games |
+| **C++** | Systems & network programming — client-server architecture, protocols, concurrency |
+| **C#** | Automated trading tools (NinjaScript) and Unity game development |
 
 ---
 
 ### Selected Projects
 
-> Pin your 3–6 best projects on your profile, then describe them here.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**project-1**](link) | [One line: what it does] | C |
-| [**project-2**](link) | [One line] | C++ |
-| [**project-3**](link) | [One line] | Python |
+[![Agent Smith](https://img.shields.io/badge/Agent_Smith-2E9DA6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youl-D/Agent_Smith)
+<br/>
+<sub>Autonomous code agent with a secure execution sandbox and MCP integration — reasons, writes, and runs code to solve coding tasks end-to-end.</sub>
 
----
+</td>
+<td width="50%" valign="top">
 
-### GitHub Stats
+[![RAG against the machine](https://img.shields.io/badge/RAG_against_the_machine-2E9DA6?style=for-the-badge&logo=github&logoColor=white)](link)
+<br/>
+<sub>Retrieval-Augmented Generation pipeline with hybrid retrieval — BM25 lexical search combined with semantic search over a codebase.</sub>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-ten-phi-33.vercel.app/api?username=Kevin-Krt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2E9DA6&icon_color=8DD3D8" alt="Kevin's GitHub stats" />
-  <img height="165" src="https://github-readme-stats-ten-phi-33.vercel.app/api/top-langs/?username=Kevin-Krt&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2E9DA6" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kevin-Krt&hide_border=true&background=00000000&ring=2E9DA6&fire=8DD3D8&currStreakLabel=2E9DA6" alt="GitHub streak" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[![The Answer Protocol](https://img.shields.io/badge/The_Answer_Protocol-2E9DA6?style=for-the-badge&logo=github&logoColor=white)](link)
+<br/>
+<sub>Multiplayer TCP text-adventure — custom server & CLI/GUI clients implementing an RFC-style network protocol in C++.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+[![Fly-in](https://img.shields.io/badge/Fly--in-2E9DA6?style=for-the-badge&logo=github&logoColor=white)](link)
+<br/>
+<sub>Constraint-based drone routing engine — custom graph pathfinding and turn scheduling, built without external graph libraries.</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
