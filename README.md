@@ -36,36 +36,83 @@
 
 ### Selected Projects
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Common%20Core%20Final%20Project-8DD3D8?style=for-the-badge&labelColor=2E9DA6" alt="Common Core Final Project"/>
+</p>
+
+<table>
+<tr>
+<td align="center">
+
+[![ft_transcendence](https://img.shields.io/badge/ft__transcendence-2E9DA6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulesMattioni/transcendence)
+
+Full-stack web application — the capstone project of the 42 common core: a real-time, multi-user web app (frontend, backend, database, fully Dockerized), built as a team.
+**In progress.**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-[![Agent Smith](https://img.shields.io/badge/Agent_Smith-2E9DA6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youl-D/Agent_Smith)
+[![Agent Smith](https://img.shields.io/badge/Agent_Smith-2E9DA6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youl-S/Agent_Smith)
 <br/>
-<sub>Autonomous code agent with a secure execution sandbox and MCP integration — reasons, writes, and runs code to solve coding tasks end-to-end.</sub>
+<sub>Autonomous agentic framework — design of a Thought → Code → Observation loop solving coding tasks (MBPP, SWE-bench) via a secure sandboxed execution environment, the MCP protocol, and multi-LLM providers. Python.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-[![RAG against the machine](https://img.shields.io/badge/RAG_against_the_machine-2E9DA6?style=for-the-badge&logo=github&logoColor=white)](link)
+[![RAG against the machine](https://img.shields.io/badge/RAG_against_the_machine-2E9DA6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kevin-Krt/RAG)
 <br/>
-<sub>Retrieval-Augmented Generation pipeline with hybrid retrieval — BM25 lexical search combined with semantic search over a codebase.</sub>
+<sub>Codebase question-answering system — full pipeline: indexing, code/text chunking, hybrid retrieval (BM25 + vector semantic search on MariaDB), generation via a local LLM (Qwen3-0.6B), recall@k evaluation. Python 3.10+ (pydantic, Python Fire, uv).</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-[![The Answer Protocol](https://img.shields.io/badge/The_Answer_Protocol-2E9DA6?style=for-the-badge&logo=github&logoColor=white)](link)
+[![Call Me Maybe](https://img.shields.io/badge/Call_Me_Maybe-2E9DA6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kevin-Krt/Call-me-maybe)
 <br/>
-<sub>Multiplayer TCP text-adventure — custom server & CLI/GUI clients implementing an RFC-style network protocol in C++.</sub>
+<sub>Natural language to typed function calls — 100% valid JSON via constrained decoding (direct logit manipulation) on a small local LLM (Qwen3-0.6B). Python.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-[![Fly-in](https://img.shields.io/badge/Fly--in-2E9DA6?style=for-the-badge&logo=github&logoColor=white)](link)
+[![The Answer Protocol](https://img.shields.io/badge/The_Answer_Protocol-2E9DA6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youl-S/The_Answer_Protocol)
 <br/>
-<sub>Constraint-based drone routing engine — custom graph pathfinding and turn scheduling, built without external graph libraries.</sub>
+<sub>Multiplayer TCP text-adventure — custom server & CLI/GUI clients implementing an RFC-style network protocol. C++.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[![Fly-in](https://img.shields.io/badge/Fly--in-2E9DA6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kevin-Krt/Fly-in)
+<br/>
+<sub>Multi-drone routing simulation — Dijkstra pathfinding implemented from scratch on a weighted graph, with multi-agent scheduling under capacity constraints to minimize turns; Pygame visualization. Object-oriented, typed Python 3.10+ (mypy).</sub>
+
+</td>
+<td width="50%" valign="top">
+
+[![Codexion](https://img.shields.io/badge/Codexion-2E9DA6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kevin-Krt/Codexion)
+<br/>
+<sub>Multi-threaded concurrency simulation — POSIX threads competing for shared resources (mutexes), FIFO/EDF scheduling via a custom from-scratch priority queue (heap), and a real-time monitoring thread. C, leak-free.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[![Inception](https://img.shields.io/badge/Inception-2E9DA6?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Kevin-Krt/Inception)
+<br/>
+<sub>Containerized infrastructure — multi-container setup orchestrated with Docker Compose: services, volumes, and networking configured from scratch.</sub>
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -76,16 +123,10 @@
 ### Contact
 
 <p align="left">
-  <a href="[linkedin-url]">
+  <a href="https://www.linkedin.com/in/kevin-kraft-b64419292/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevin.kraft.pro@gmail.com">
     <img src="https://img.shields.io/badge/Email-2E9DA6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <em>"Simplicity is the ultimate sophistication."</em>
 </p>
