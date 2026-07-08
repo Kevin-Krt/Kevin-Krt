@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Kevin</h1>
 
+<!-- Animated typing text (readme-typing-svg). Edit the lines= part to change the text. -->
 <p align="center">
-  <em>Software student at School 42</em>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9DA6&center=true&vCenter=true&width=520&height=50&lines=Software+student+at+School+42;Open+to+a+development+apprenticeship;C+%7C+C%2B%2B+%7C+C%23+%7C+Python;AI%2C+systems+%26+algorithms" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -23,10 +26,9 @@ struct Developer {
 ```
 
 I come from the demanding world of the **42 curriculum**, where you learn through
-autonomy, projects, and peer code review.
-
-I'm looking for an **apprenticeship** and staying open on the field — software,
-systems, back-end, or web. What matters to me is a team where I can keep growing.
+autonomy, projects, and peer code review. I'm looking for an **apprenticeship** and
+staying open on the field — software, systems, back-end, or web. What matters to me
+is a team where I can keep growing.
 
 ---
 
@@ -57,6 +59,19 @@ systems, back-end, or web. What matters to me is a team where I can keep growing
 | [**project-1**](link) | [One line: what it does] | C |
 | [**project-2**](link) | [One line] | C++ |
 | [**project-3**](link) | [One line] | Python |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2E9DA6&icon_color=8DD3D8" alt="Kevin's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2E9DA6" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&hide_border=true&background=00000000&ring=2E9DA6&fire=8DD3D8&currStreakLabel=2E9DA6" alt="GitHub streak" />
+</p>
 
 ---
 
