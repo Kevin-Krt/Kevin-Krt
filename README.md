@@ -66,7 +66,7 @@ systems, back-end, or web. What matters to me is a team where I can keep growing
   <a href="[linkedin-url]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:kevin.kraft.pro@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevin.kraft.pro@gmail.com">
     <img src="https://img.shields.io/badge/Email-2E9DA6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
