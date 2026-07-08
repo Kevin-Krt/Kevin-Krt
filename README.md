@@ -41,6 +41,7 @@ is a team where I can keep growing.
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 - **C** — the backbone of the 42 common core: memory management, pointers, compilation, and classic algorithms
@@ -65,8 +66,8 @@ is a team where I can keep growing.
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2E9DA6&icon_color=8DD3D8" alt="Kevin's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2E9DA6" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kevin-Krt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2E9DA6&icon_color=8DD3D8" alt="Kevin's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Krt&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2E9DA6" alt="Top languages" />
 </p>
 
 <p align="center">
