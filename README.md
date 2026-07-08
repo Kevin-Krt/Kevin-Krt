@@ -66,12 +66,11 @@ is a team where I can keep growing.
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kevin-Krt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2E9DA6&icon_color=8DD3D8" alt="Kevin's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Krt&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2E9DA6" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-ten-phi-33.vercel.app/api?username=Kevin-Krt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2E9DA6&icon_color=8DD3D8" alt="Kevin's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-ten-phi-33.vercel.app/api/top-langs/?username=Kevin-Krt&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2E9DA6" alt="Top languages" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&hide_border=true&background=00000000&ring=2E9DA6&fire=8DD3D8&currStreakLabel=2E9DA6" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Kevin-Krt&hide_border=true&background=00000000&ring=2E9DA6&fire=8DD3D8&currStreakLabel=2E9DA6" alt="GitHub streak" />
 </p>
 
 ---
