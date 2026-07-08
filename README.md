@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kevin</h1>
 
 <p align="center">
-  <em>Software student at School 42 — I learn by breaking things, then fixing them.</em>
+  <em>Software student at School 42</em>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ```c
 struct Developer {
-    char  *name;      // Kevin [Last name]
+    char  *name;      // Kevin Kraft
     char  *school;    // School 42 · Nice / Sophia Antipolis
     char  *seeking;   // a development apprenticeship
     char  *motto;     // "Understand before you code"
@@ -23,9 +23,7 @@ struct Developer {
 ```
 
 I come from the demanding world of the **42 curriculum**, where you learn through
-autonomy, projects, and peer code review. I like getting to the root of things:
-understanding how memory is handled, why a program breaks, and how to make it clean
-and robust.
+autonomy, projects, and peer code review.
 
 I'm looking for an **apprenticeship** and staying open on the field — software,
 systems, back-end, or web. What matters to me is a team where I can keep growing.
@@ -43,9 +41,10 @@ systems, back-end, or web. What matters to me is a team where I can keep growing
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-- **C / C++** — memory management, algorithms, systems projects (my playground at 42)
-- **C#** — [ex: .NET projects, applications, Unity...]
-- **Python** — scripting, automation, [data / APIs...]
+- **C** — the backbone of the 42 common core: memory management, pointers, compilation, and classic algorithms
+- **Python** — the 42 core's high-level language, from AI to algorithms: autonomous LLM agents, function calling and RAG pipelines, along with graph/algorithmic solvers, object-oriented games, scripting and automation
+- **C++** — systems and network programming: client-server architecture, protocol implementation, and concurrency
+- **C#** — automated trading tools with NinjaScript (NinjaTrader indicators & strategies) and game development in Unity
 
 ---
 
@@ -67,7 +66,7 @@ systems, back-end, or web. What matters to me is a team where I can keep growing
   <a href="[linkedin-url]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[your-email]">
+  <a href="mailto:kevin.kraft.pro@gmail.com">
     <img src="https://img.shields.io/badge/Email-2E9DA6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
