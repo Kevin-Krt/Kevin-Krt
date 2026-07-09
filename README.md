@@ -34,7 +34,7 @@
 
 ---
 
-### Selected Projects
+### Featured Projects
 
 <p align="center">
   <img src="https://img.shields.io/badge/Common%20Core%20Final%20Project-8DD3D8?style=for-the-badge&labelColor=2E9DA6" alt="Common Core Final Project"/>
